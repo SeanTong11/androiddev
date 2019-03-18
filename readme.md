@@ -12,8 +12,8 @@
 <h2 id="1"> 线性布局</h2>
 
   * [回到开头](#0)
+  <img src="https://raw.githubusercontent.com/SeanTong11/androiddev/master/linear.png" width=720 height= />
 
-![Alt](https://raw.githubusercontent.com/SeanTong11/androiddev/master/linear.png)
 
 <h2 id="2">约束布局</h2>
 
