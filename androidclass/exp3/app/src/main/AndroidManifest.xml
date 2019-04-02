@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ListViewActivity" />
+        <activity android:name=".MenuTestActivity" />
+        <activity android:name=".ContextMenuActivity" />
+        <activity android:name=".ActionModeActivity"></activity>
     </application>
 
 </manifest>
