@@ -2,8 +2,8 @@
 
 # 实验位置 
 实验1位置:  [androidclass/helloworld/](https://github.com/SeanTong11/androiddev/tree/master/androidclass/helloworld/app)  
-实验2位置:[androidclass/exp2/](https://github.com/SeanTong11/androiddev/tree/master/androidclass/exp2)    
-实验3位置:[androidclass/exp2/](https://github.com/SeanTong11/androiddev/tree/master/androidclass/exp3) 
+实验2位置:	[androidclass/exp2/](https://github.com/SeanTong11/androiddev/tree/master/androidclass/exp2)    
+实验3位置:	[androidclass/exp3/](https://github.com/SeanTong11/androiddev/tree/master/androidclass/exp3) 
 ### 实验2  
   * [线性布局](#1)
   * [约束布局](#2)
