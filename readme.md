@@ -13,6 +13,16 @@
   * [AlertDialog](#5)
   * [XML定义菜单](#6)
   * [ActionMode](#7)
+### 实验4  
+  * [SimpleAdapter](#4)
+  * [AlertDialog](#5)
+  * [XML定义菜单](#6)
+  * [ActionMode](#7)
+### 实验5  
+  * [SimpleAdapter](#4)
+  * [AlertDialog](#5)
+  * [XML定义菜单](#6)
+  * [ActionMode](#7)
 
   
 <h2 id="1"> 线性布局</h2>
