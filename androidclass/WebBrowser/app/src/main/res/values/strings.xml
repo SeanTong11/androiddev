@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebBrowser</string>
+    <string name="see">浏览该网页</string>
+    <string name="input">请输入网址</string>
+    <string name="protocolhead">http</string>
+    <string name="httpsprotocolhead">https</string>
+</resources>
