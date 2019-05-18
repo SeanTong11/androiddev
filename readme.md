@@ -5,8 +5,8 @@
 实验2位置:	[androidclass/exp2/](https://github.com/SeanTong11/androiddev/tree/master/androidclass/exp2)    
 实验3位置:	[androidclass/exp3/](https://github.com/SeanTong11/androiddev/tree/master/androidclass/exp3)  
 实验4位置:	[androidclass/exp4/](https://github.com/SeanTong11/androiddev/tree/master/androidclass/exp4)  
-实验5位置:	[androidclass/exp5/](https://github.com/SeanTong11/androiddev/tree/master/androidclass/exp5) ||	[androidclass/WebBrowser/](https://github.com/SeanTong11/androiddev/tree/master/androidclass/WebBrowser)
-
+实验5位置:	[androidclass/exp5/](https://github.com/SeanTong11/androiddev/tree/master/androidclass/exp5) ||	[androidclass/WebBrowser/](https://github.com/SeanTong11/androiddev/tree/master/androidclass/WebBrowser)  
+期中实验位置:	[NotePad传送门](https://github.com/SeanTong11/NotePad)
 ### 实验2  
   * [线性布局](#1)
   * [约束布局](#2)
